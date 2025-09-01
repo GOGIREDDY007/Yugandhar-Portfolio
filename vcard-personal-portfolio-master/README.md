@@ -1,44 +1,36 @@
-# vCard - Personal portfolio
+# 🌟 Portfolio Website - Yugandhar Reddy Gogireddy  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+This is my personal portfolio website where I showcase my **projects, skills, and journey** as an aspiring **Software Engineer**.  
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+🔗 **Live Demo:** [yugandhar-portfolio.vercel.app](https://yugandhar-portfolio-bice.vercel.app/)  
 
-## Demo
+---
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## 👨‍💻 About Me  
+I am a **Master’s student in Computer Science** passionate about building scalable software, solving real-world problems, and growing into a **Software Engineer / Developer (SWE / SDE)** role.  
 
-## Prerequisites
+- 🚀 Skilled in **React, Python, C++, Java, SQL**  
+- 💡 Interested in **Web Development, Systems, and AI/ML applications**  
+- 🌱 Currently looking for **Summer 2026 SWE Internships**  
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## 📂 Portfolio Highlights  
+- 🔹 **Projects Section** – Real-world projects with GitHub links  
+- 🔹 **Responsive Design** – Works on mobile, tablet, and desktop  
+- 🔹 **Modern UI** – Built with React.js & Tailwind CSS  
 
-## Installing vCard
+---
 
-To install **vCard**, follow these steps:
+## 🛠️ Tech Stack  
+- **Frontend:** React.js, Tailwind CSS  
+- **Deployment:** Vercel  
+- **Version Control:** Git & GitHub  
 
-Linux and macOS:
+---
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+## 📬 Contact Me  
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/yugandhar-gogireddy](#)  
+- 🖥️ GitHub: [github.com/YOUR_USERNAME](#)  
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
-
-## License
-
-MIT

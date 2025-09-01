@@ -20,17 +20,3 @@ I am a **Master’s student in Computer Science** passionate about building scal
 - 🔹 **Responsive Design** – Works on mobile, tablet, and desktop  
 - 🔹 **Modern UI** – Built with React.js & Tailwind CSS  
 
----
-
-## 🛠️ Tech Stack  
-- **Frontend:** React.js, Tailwind CSS  
-- **Deployment:** Vercel  
-- **Version Control:** Git & GitHub  
-
----
-
-## 📬 Contact Me  
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yugandhar-gogireddy](#)  
-- 🖥️ GitHub: [github.com/YOUR_USERNAME](#)  
-
